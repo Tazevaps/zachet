@@ -45,7 +45,7 @@ color: black;
     max-width: 1170px;
 }
 
-.heafer-container {
+.top-container__main-box {
     background-color: white;
     border-radius: 15px;
     display: flex;    
@@ -56,19 +56,19 @@ color: black;
     flex-wrap: wrap;
 }
 
-.heafer-ul {
+.top-container__ul {
     display: flex;
     margin: 0;
     margin-right: auto;
     padding: 0;
 }
 
-.heafer-li {
+.top-container__li {
     display: inline-flex;
     margin-right: 40px;
 
 }
-.heafer-li:last-child {
+.top-container__li:last-child {
     margin-right: 0;
 }
 
